@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <declare-styleable name="FontView">
+        
+        <!-- Text to display. -->
+        <attr name="text" format="string" localization="suggested" />
+        <!-- <attr name="textColor" />
+        <attr name="textSize" /> -->
+        
+    </declare-styleable>
+</resources>
